@@ -28,7 +28,7 @@ pnpm install
 pnpm prisma generate
 ```
 
-5. Run the database migrations:
+4. Run the database migrations:
 
 ```bash
 pnpm prisma db push
